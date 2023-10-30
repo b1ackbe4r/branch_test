@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 "rererdfsgdffgdfgf" 
 hotfix my solution
+=======
+first edition
+second edition
+third edition
+issue resolved
+hotfis team's solution  
+>>>>>>> origin/master
+resoloved
